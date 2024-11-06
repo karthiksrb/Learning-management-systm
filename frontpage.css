@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  background-image: url("books.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "Times New Roman", Times, serif;
+}
+h1{
+  color : white;
+  font-size: 50px;
+  font-weight: 1100;
+  position: absolute;
+  left:18%;
+  top:10%;
+  height: 20vh;
+
+}
+
+.ad{
+  position: absolute;
+  top: 20%;
+  left: 6%;
+}
+
+.us{
+  position: absolute;
+  top: 20%;
+  left: 17%;
+}
+
+
+a{
+  font-size: 40px;
+  margin-left: 30%;
+  margin-top: 5%;
+  padding: 5px 5px;
+  background: whitesmoke ;
+  color: black;
+  text-decoration: none;
+  border-radius: 10%;
+  border: 3px solid black;
+}
